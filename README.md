@@ -1,4 +1,5 @@
 C-sockets
 =========
 
-Client and Server source code
+Client and Server source code/(<i>Echo Server</i>
+<p>The server is created using port number, and the client is created using hostname(string) and port number. Once the client establishes a connection, it sends a message to the server. The server reads the message, and then sends the same thing back. =-]</p>
